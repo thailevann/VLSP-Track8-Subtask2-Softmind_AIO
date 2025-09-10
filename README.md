@@ -1,7 +1,9 @@
 # VLSP-Track8-Subtask2-Softmind_AIO
 
 This repository contains the code and resources for **Duration Question Answering (DurationQA)** in VLSP 2025 Track 8, Subtask 2.
+
 Team name: Softmind_AIO
+
 ⚠️ Recommended to run all notebooks on Kaggle P100 GPU to ensure stable execution.
 
 ---
@@ -9,7 +11,8 @@ Team name: Softmind_AIO
 ## Model
 
 - **Pre-finetuned model:** [`thailevann/cot_refine`](https://huggingface.co/thailevann/cot_refine)  
-- The model is already fine-tuned for DurationQA and can be used directly for inference.  
+- The model is already fine-tuned for DurationQA and can be used directly for inference.
+  
 ---
 
 ## Dataset
