@@ -1,7 +1,28 @@
 # [VPLS 2025] DP-Ens DurationQA: Dual-Prompt Fine-Tuning with Log-Probability Ensemble for Duration Question Answering
+Team name: Softmind_AIO
 This repository contains the code and resources for **Duration Question Answering (DurationQA)** in VLSP 2025 Track 8, Subtask 2.
 
-Team name: Softmind_AIO
+[📄 Paper](https://aclanthology.org/2025.vlsp-1.42.pdf)
+
+---
+
+## 🔥 Highlights
+
+- 🏆 **VLSP 2025**: Accepted paper in Track 8 (DurationQA)
+- 🧠 **Dual-Prompt Fine-Tuning**:
+  - Chain-of-Thought (CoT) for reasoning
+  - Refinement for label prediction conditioned on reasoning
+- 🔗 **Log-Probability Ensemble**:
+  - Combines outputs from multiple prompts in a numerically stable way
+  - Improves consistency across candidate duration labels
+- ⏱️ **Multi-label Temporal QA**:
+  - Handles multiple correct duration answers
+  - Requires multi-step reasoning
+- ⚡ **Efficient LLM Adaptation**:
+  - Uses 4-bit quantization for memory-efficient training and inference
+- 📈 **State-of-the-Art Performance**:
+  - Achieves best F1 score on VLSP 2025 DurationQA benchmark
+
 
 ⚠️ Recommended to run all notebooks on Kaggle P100 GPU to ensure stable execution.
 
