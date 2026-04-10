@@ -31,8 +31,8 @@ This repository contains the code and resources for **Duration Question Answerin
 ## 🏗️ Model Architecture
 <img width="988" height="490" alt="image" src="https://github.com/user-attachments/assets/8e645720-0d33-46c9-9a93-99b687669418" />
 
-Overview of our framework for DurationQA, consisting of a training stage (fine-tuning a 4-bit Qwen model
-with CoT and Refinement prompts) and an inference stage (combining predictions via log-probability ensemble).
+Overview of our framework for DurationQA, consisting of a training stage (fine-tuning a 4-bit Qwen model with CoT and Refinement prompts) and an inference stage (combining predictions via log-probability ensemble)
+
 ---
 
 ## Model
