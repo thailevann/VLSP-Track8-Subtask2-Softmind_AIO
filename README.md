@@ -1,5 +1,7 @@
 # [VPLS 2025] DP-Ens DurationQA: Dual-Prompt Fine-Tuning with Log-Probability Ensemble for Duration Question Answering
+
 Team name: Softmind_AIO
+
 This repository contains the code and resources for **Duration Question Answering (DurationQA)** in VLSP 2025 Track 8, Subtask 2.
 
 [📄 Paper](https://aclanthology.org/2025.vlsp-1.42.pdf)
