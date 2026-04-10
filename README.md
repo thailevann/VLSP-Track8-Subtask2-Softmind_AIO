@@ -40,6 +40,7 @@ Team name: Softmind_AIO
 - Evaluate predictions using a TXT file formatted according to the example in the notebook (similar to `results.txt` submitted to AIHub).  
 - Computes: **Precision, Recall, F1, Exact Match**.
 ---
+⭐ **Star this repo if you find it helpful!** ⭐ 
 
 ## Notes
 
